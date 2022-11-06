@@ -8,6 +8,7 @@ body {
 
 .container {
   max-width: 1044px;
+  margin: 0 auto;
 }
 
   .site-navigation-item {
@@ -140,7 +141,7 @@ a {
   align-items: flex-start;
   padding: 0px 0px 30px 0px;
   margin: 0px 0px 30px 0px;
-  border-bottom: 1px soild #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
 }
 
 .works-img {
